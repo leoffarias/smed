@@ -1,0 +1,42 @@
+body {
+	font-size:16px;
+	font-family: 'Open Sans', sans-serif;
+	background:#fefefe;
+	color:#424242;
+}
+
+.arq {
+	color:white;
+	float:right;
+	text-decoration:none;
+	margin-right:10%;
+	line-height:100px;
+}
+
+header {
+	background:#BB4339;
+	width:100%;
+	height:100px;
+}
+
+.logo {
+	max-width:170px;
+	margin-left:10%;
+}
+
+.container {
+	max-width:1000px;
+	margin:100px auto 0;
+}
+
+.page-wrap {
+	margin:0 10px;
+}
+
+.barra {
+	border-bottom:1px solid #616161;
+}
+
+.fraco {
+	color:#787878;
+}
